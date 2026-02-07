@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-maximalist-freedom-constraint",
+  "title": "The Wobbling Plate of Peace",
+  "tagline": "When the world ends in a silent, golden wall, a meticulous archivist of the past must confront the terrifying, unbounded freedom of a present with no rules.",
+  "target_words": 72130,
+  "actual_words": 72130,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tyranny of Meticulous Order",
+    "The Architecture of Collapse",
+    "Curiosity as Survival",
+    "The Burden of Uncurated Freedom"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Amoeba-Shaped Stain",
+      "words": 6557
+    },
+    {
+      "ch": 2,
+      "title": "A Gold Wall at the Waterline",
+      "words": 6557
+    },
+    {
+      "ch": 3,
+      "title": "A Singular, Billable Load",
+      "words": 6557
+    },
+    {
+      "ch": 4,
+      "title": "Secular Ablutions in the Hollow Heart",
+      "words": 6557
+    },
+    {
+      "ch": 5,
+      "title": "The Threat of a Misplaced Decimal",
+      "words": 6557
+    },
+    {
+      "ch": 6,
+      "title": "The Dry Thunder of Triplicate Forms",
+      "words": 6557
+    },
+    {
+      "ch": 7,
+      "title": "To Be Assessed, Not Hunted",
+      "words": 6557
+    },
+    {
+      "ch": 8,
+      "title": "The Wednesday After the End",
+      "words": 6557
+    },
+    {
+      "ch": 9,
+      "title": "The Wobbling Plate of Peace",
+      "words": 6557
+    },
+    {
+      "ch": 10,
+      "title": "A Provisional Present, Off-Key",
+      "words": 6557
+    },
+    {
+      "ch": 11,
+      "title": "A Deliberate Comma in Green",
+      "words": 6557
+    }
+  ]
+}
